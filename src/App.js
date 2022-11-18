@@ -7,7 +7,7 @@ function App() {
         name="Arjun"
         pic="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFacn0pb12vsSRTPKRUDnxFrP8sj7st13r8A&usqp=CAU" />
       <User
-        name="Malar"
+        name="mallika"
         pic="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3WEmfJCME77ZGymWrlJkXRv5bWg9QQmQEzw&usqp=CAU" />
       <User
         name="Saravanan"
